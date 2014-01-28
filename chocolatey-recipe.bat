@@ -22,5 +22,8 @@ rem browsers
 cinst GoogleChrome
 cinst Firefox
 
+rem other
+cinst lastpass
+
 rem need to creat my own
 rem astrogrep
