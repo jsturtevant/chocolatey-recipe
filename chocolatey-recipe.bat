@@ -17,5 +17,9 @@ rem binary tools
 cinst dotPeek
 cinst ilmerge
 
+rem browsers
+cinst GoogleChrome
+cinst Firefox
+
 rem need to creat my own
 rem astrogrep
