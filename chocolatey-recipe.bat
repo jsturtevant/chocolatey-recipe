@@ -2,6 +2,9 @@ rem source control tools
 cinst winmerge
 cinst git
 
+rem webdev
+cinst fiddler4
+
 rem editors
 cinst WebStorm
 cinst notepadplusplus
