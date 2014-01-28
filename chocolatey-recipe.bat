@@ -4,6 +4,7 @@ cinst git
 
 rem webdev
 cinst fiddler4
+cinst filezilla
 
 rem editors
 cinst WebStorm
