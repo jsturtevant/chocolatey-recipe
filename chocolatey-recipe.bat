@@ -16,6 +16,7 @@ cinst paint.net
 rem binary tools
 cinst dotPeek
 cinst ilmerge
+cinst NugetPackageExplorer
 
 rem browsers
 cinst GoogleChrome
