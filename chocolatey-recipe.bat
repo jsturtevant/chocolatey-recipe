@@ -1,6 +1,7 @@
 rem source control tools
 cinst winmerge
-cinst git
+rem cinst git
+cinst Cmder  rem comes with git
 
 rem webdev
 cinst fiddler4
@@ -9,6 +10,7 @@ cinst filezilla
 rem editors
 cinst WebStorm
 cinst notepadplusplus
+cinst markdownpad2
 
 rem image tools
 cinst paint.net
