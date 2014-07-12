@@ -1,7 +1,8 @@
 rem source control tools
 cinst winmerge
 rem cinst git
-cinst Cmder  rem comes with git
+rem  cmder comes with git
+cinst Cmder  
 
 rem webdev
 cinst fiddler4
