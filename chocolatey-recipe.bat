@@ -15,6 +15,7 @@ cinst markdownpad2
 
 rem image tools
 cinst paint.net
+cinst PngGauntlet
 
 rem binary tools
 cinst dotPeek
