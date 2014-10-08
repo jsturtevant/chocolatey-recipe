@@ -31,3 +31,4 @@ cinst lastpass
 
 rem need to creat my own
 rem astrogrep
+rem http://www.cockos.com/licecap/
