@@ -1,35 +1,48 @@
-rem source control tools
-cinst winmerge
-rem cinst git
-rem  cmder comes with git
-cinst Cmder  
+START http://boxstarter.org/package/nr/url?
 
-rem webdev
-cinst fiddler4
-cinst filezilla
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions 
+Enable-RemoteDesktop 
 
-rem editors
-cinst WebStorm
-cinst notepadplusplus
-cinst markdownpad2
+# source control tools
+choco install winmerge
+# choco install git
+#  cmder comes with git
+choco install Cmder  
+choco install sourcetree
 
-rem image tools
-cinst paint.net
-cinst PngGauntlet
+# webdev
+choco install fiddler4
+choco install filezilla
+choco install nodejs.install 
 
-rem binary tools
-cinst dotPeek
-cinst ilmerge
-cinst NugetPackageExplorer
+# utilities
+choco install  putty 
+choco install skype 
+choco install f.lux  
+choco install dotPeek
+choco install ilmerge
+choco install NugetPackageExplorer
+choco install paint.net
+choco install PngGauntlet
+choco install astrogrep
+choco install pnggauntlet
 
-rem browsers
-cinst GoogleChrome
-cinst Firefox
+# editors
+choco install visualstudiocommunity2013
 
-rem other
-cinst lastpass
+# JetBrains 
+choco install resharper
+choco install WebStorm
+choco install pycharm-community
+choco install notepadplusplus
+choco install markdownpad2
 
-rem need to creat my own
-rem astrogrep
-rem http://www.cockos.com/licecap/
-rem http://pnggauntlet.com/
+# browsers
+choco install google-chrome-x64
+choco install Firefox
+
+Install-WindowsUpdate -getUpdatesFromMS -acceptEula -SuppressReboots
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives  -EnableShowFileExtensions -EnableShowFullPathInTitleBar
+
+# need to creat my own
+# http://www.cockos.com/licecap/
