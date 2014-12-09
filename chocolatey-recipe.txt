@@ -1,4 +1,4 @@
-START http://boxstarter.org/package/nr/url?
+#START http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/jsturtevant/chocolatey-recipe/master/chocolatey-recipe.txt
 
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions 
 Enable-RemoteDesktop 
