@@ -1,6 +1,3 @@
-Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions 
-Enable-RemoteDesktop 
-
 # source control tools
 choco install winmerge
 # choco install git
