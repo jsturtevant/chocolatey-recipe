@@ -21,7 +21,7 @@ choco install dotPeek
 choco install ilmerge
 choco install NugetPackageExplorer
 choco install paint.net
-choco install PngGauntlet
+#choco install PngGauntlet  #this package required manual entry
 choco install astrogrep
 choco install pnggauntlet
 
