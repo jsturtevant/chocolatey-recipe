@@ -20,7 +20,6 @@ choco install NugetPackageExplorer
 choco install paint.net
 #choco install PngGauntlet  #this package required manual entry
 choco install astrogrep
-choco install pnggauntlet
 
 # editors
 choco install visualstudiocommunity2013
