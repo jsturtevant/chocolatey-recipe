@@ -20,10 +20,9 @@ choco install NugetPackageExplorer
 choco install paint.net
 #choco install PngGauntlet  #this package required manual entry
 choco install astrogrep
-choco install pnggauntlet
 
 # editors
-choco install visualstudiocommunity2013
+choco install visualstudio2013professional -packageParameters "/Features:'Blend SQL WebTools'"
 
 # JetBrains 
 choco install resharper
@@ -36,8 +35,5 @@ choco install markdownpad2
 choco install google-chrome-x64
 choco install Firefox
 
-Install-WindowsUpdate -getUpdatesFromMS -acceptEula -SuppressReboots
+#Install-WindowsUpdate -getUpdatesFromMS -acceptEula -SuppressReboots
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives  -EnableShowFileExtensions -EnableShowFullPathInTitleBar
-
-# need to creat my own
-# http://www.cockos.com/licecap/
