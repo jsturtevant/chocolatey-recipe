@@ -22,7 +22,7 @@ choco install paint.net
 choco install astrogrep
 
 # editors
-choco install visualstudio2013professional -packageParameters "/Features:'Blend SQL WebTools'"
+choco install visualstudio2013premium -packageParameters "/Features:'Blend SQL WebTools'"
 
 # JetBrains 
 choco install resharper
