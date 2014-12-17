@@ -6,4 +6,4 @@ A [Boxstarter](http://boxstarter.org/)/[Chocolatey](https://chocolatey.org/) scr
 Use:
   1. Download and run RunBoxstarterInstall.bat
   2. This will launch a download for an executable. 
-  2. Run the executable it will download, install, and configure all programs in chocolate-recipe.txt
+  2. Run the executable it will download, install, and configure all programs in chocolatey-recipe.txt
