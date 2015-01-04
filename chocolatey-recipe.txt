@@ -25,13 +25,12 @@ choco install vagrant
 
 # editors
 choco install visualstudiocommunity2013
-
-# JetBrains 
 choco install resharper
 choco install WebStorm
 choco install pycharm-community
 choco install notepadplusplus
 choco install markdownpad2
+choco install atom
 
 # browsers
 choco install google-chrome-x64
