@@ -22,6 +22,8 @@ choco install paint.net
 choco install astrogrep
 choco install daemontoolslite
 choco install vagrant
+choco install greenshot
+choco install freemind
 
 # editors
 choco install visualstudiocommunity2013
