@@ -24,6 +24,7 @@ choco install daemontoolslite
 choco install vagrant
 choco install greenshot
 choco install freemind
+choco install scriptcs
 
 # editors
 choco install visualstudiocommunity2013
