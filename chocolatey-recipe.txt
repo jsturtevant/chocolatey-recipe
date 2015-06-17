@@ -44,3 +44,4 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives  -EnableShowFileE
 
 # need to creat my own
 # http://www.cockos.com/licecap/
+# http://azurestorageexplorer.codeplex.com/
