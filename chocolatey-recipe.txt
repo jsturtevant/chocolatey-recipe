@@ -25,6 +25,7 @@ choco install vagrant
 choco install greenshot
 choco install freemind
 choco install scriptcs
+choco install autohotkey.portable
 
 # editors
 choco install visualstudiocommunity2013
