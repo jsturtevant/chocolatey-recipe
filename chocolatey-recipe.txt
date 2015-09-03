@@ -26,6 +26,7 @@ choco install greenshot
 choco install freemind
 choco install scriptcs
 choco install autohotkey.portable
+choco install zoomit
 
 # editors
 choco install visualstudiocommunity2013
