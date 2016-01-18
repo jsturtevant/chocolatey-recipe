@@ -36,8 +36,8 @@ choco install resharper
 choco install WebStorm
 choco install pycharm-community
 choco install notepadplusplus
-choco install markdownpad2
 choco install atom
+choco install visualstudiocode
 
 # browsers
 choco install google-chrome-x64
