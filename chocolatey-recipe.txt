@@ -20,7 +20,6 @@ choco install NugetPackageExplorer
 choco install paint.net
 #choco install PngGauntlet  #this package required manual entry
 choco install astrogrep
-choco install daemontoolslite
 choco install vagrant
 choco install greenshot
 choco install freemind
