@@ -27,6 +27,9 @@ choco install scriptcs
 choco install autohotkey.portable
 choco install zoomit
 
+#languages
+choco install elixir
+
 # editors
 choco install visualstudiocommunity2013
 choco install resharper
