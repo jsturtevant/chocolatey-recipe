@@ -1,6 +1,6 @@
 # source control tools
 choco install winmerge
-# choco install git
+# choco install git -params '"/GitAndUnixToolsOnPath"'
 #  cmder comes with git
 choco install Cmder  
 choco install sourcetree
