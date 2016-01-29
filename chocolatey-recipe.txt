@@ -26,6 +26,7 @@ choco install freemind
 choco install scriptcs
 choco install autohotkey.portable
 choco install zoomit
+choco install licecap
 
 #languages
 choco install elixir
@@ -47,5 +48,4 @@ Install-WindowsUpdate -getUpdatesFromMS -acceptEula -SuppressReboots
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives  -EnableShowFileExtensions -EnableShowFullPathInTitleBar
 
 # need to creat my own
-# http://www.cockos.com/licecap/
 # http://azurestorageexplorer.codeplex.com/
