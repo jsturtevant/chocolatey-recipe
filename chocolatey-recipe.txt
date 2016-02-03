@@ -32,9 +32,9 @@ choco install licecap
 choco install elixir
 
 # editors
-choco install visualstudiocommunity2013
-choco install resharper
-choco install WebStorm
+choco install visualstudio2015community
+#choco install resharper
+#choco install WebStorm
 choco install pycharm-community
 choco install notepadplusplus
 choco install atom
