@@ -28,6 +28,7 @@ choco install autohotkey.portable
 choco install zoomit
 choco install licecap
 choco install vlc
+choco install inkscape #SVG editor
 
 #languages
 choco install elixir
