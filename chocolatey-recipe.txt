@@ -51,3 +51,4 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives  -EnableShowFileE
 
 # need to creat my own
 # http://azurestorageexplorer.codeplex.com/
+# https://www.syncfusion.com/downloads/metrostudio
