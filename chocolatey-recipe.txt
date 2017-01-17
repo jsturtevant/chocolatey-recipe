@@ -9,6 +9,7 @@ choco install sourcetree
 choco install fiddler4
 choco install filezilla
 choco install nodejs.install 
+choco install prefix
 
 # utilities
 choco install  putty 
