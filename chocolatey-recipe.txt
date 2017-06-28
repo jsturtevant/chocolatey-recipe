@@ -3,6 +3,7 @@ choco install winmerge
 choco install git -params '"/GitAndUnixToolsOnPath"'
 #  cmder comes with git
 #choco install Cmder  
+choco install hyper
 choco install sourcetree
 
 # webdev
